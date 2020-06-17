@@ -30,4 +30,3 @@ jobs:
         ${{ secrets.USER }}
         ${{ secrets.PWD }}
         EOF
-        
